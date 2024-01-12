@@ -9,7 +9,7 @@
 
   Modified to invert direction keys in Run mode using Esc key.
 
-  Andrew Palm, 1/11/2024
+  Andrew Palm, 1/12/2024
 
   Only activates decoder functions 0 to 9, and toggled
   between on and off.
